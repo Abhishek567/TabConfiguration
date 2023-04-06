@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.6.4)
+  - SSSwiftUIGIFView (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SSSwiftUIGIFView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SSSwiftUIGIFView
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  SSSwiftUIGIFView: f109262cd0baff190b58b519c0e94f7622c428d4
+
+PODFILE CHECKSUM: 33528bec1d20e2865942d136373c9d953a56b9d5
+
+COCOAPODS: 1.11.3
