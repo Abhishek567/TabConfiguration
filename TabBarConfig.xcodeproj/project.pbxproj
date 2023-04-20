@@ -98,8 +98,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				41AAA41E29E6A4C200290249 /* ResearchKit.framework in Frameworks */,
-				B7C2043011EE470A6F1F0C57 /* Pods_TabBarConfig.framework in Frameworks */,
 				4176A16E29F1525D00669E2F /* ChatListView in Frameworks */,
+				B7C2043011EE470A6F1F0C57 /* Pods_TabBarConfig.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -184,9 +184,9 @@
 			children = (
 				4119081B29EFE4FD00CD0940 /* Survey+CoreDataClass.swift */,
 				4119081C29EFE4FD00CD0940 /* Survey+CoreDataProperties.swift */,
+				4119081729EFD7D000CD0940 /* SurveyData.xcdatamodeld */,
 				4185A74329DC57980034B931 /* nice.gif */,
 				41C174E529DC39B100CDD91E /* premission.json */,
-				4119081729EFD7D000CD0940 /* SurveyData.xcdatamodeld */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
@@ -378,17 +378,18 @@
 				4119081A29EFE2FE00CD0940 /* PersistenceController.swift in Sources */,
 				412B56CB29E5514D0028D8F3 /* ConsestView.swift in Sources */,
 				4119081E29EFE4FD00CD0940 /* Survey+CoreDataProperties.swift in Sources */,
-				412D2CF329DC085800CE97CB /* HomeView.swift in Sources */,
-				410A78C929DAC04A00A891C1 /* ContentView.swift in Sources */,
 				41EF211529E453BF00C0F798 /* ResearchKitView.swift in Sources */,
 				41AAD67429E6C34C0063E41F /* ChatView.swift in Sources */,
 				4127641F29E594560088A930 /* SurveyFormView.swift in Sources */,
 				41AAD67129E6C1CB0063E41F /* MessageModel.swift in Sources */,
-				41C174E829DC497E00CDD91E /* PermissionViewModel.swift in Sources */,
 				4119081D29EFE4FD00CD0940 /* Survey+CoreDataClass.swift in Sources */,
 				41AAD67229E6C1CB0063E41F /* userModel.swift in Sources */,
 				410A78C729DAC04A00A891C1 /* TabBarConfigApp.swift in Sources */,
 				41AAD67029E6C1CB0063E41F /* ChannelModel.swift in Sources */,
+				412D2CF329DC085800CE97CB /* HomeView.swift in Sources */,
+				410A78C929DAC04A00A891C1 /* ContentView.swift in Sources */,
+				41C174E829DC497E00CDD91E /* PermissionViewModel.swift in Sources */,
+				410A78C729DAC04A00A891C1 /* TabBarConfigApp.swift in Sources */,
 				412D2CF529DC0B8200CE97CB /* LodingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
