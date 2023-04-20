@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "chatspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Abhishek567/ChatSpm.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "db55989e52a370946f7a6abc5f14a73e1294376d"
+      }
+    }
+  ],
+  "version" : 2
+}
