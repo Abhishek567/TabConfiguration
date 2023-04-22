@@ -11,8 +11,8 @@ import SwiftUI
 struct TabBarConfigApp: App {
     var body: some Scene {
         WindowGroup {
-//            ContentView()
-            HomeView()
+            ContentView()
+//            HomeView()
         }
     }
 }
